@@ -1,0 +1,15 @@
+# Ghi chú cho Claude Code, không đưa lên GitHub
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# File sinh ra khi chạy tools
+tools/sim/out/
+tools/path_planner/out/
+__pycache__/
+*.pyc
+
+# Build
+build/
+Debug/
+Release/
